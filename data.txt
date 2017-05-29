@@ -1,0 +1,8 @@
+data{"date":"2017-05-17 13:14:09.488378","project":"Help","tech":"none","time":39,"key":0}
+data{"date":"2017-05-29 09:26:15.186865","project":"CodeTimeTrackerServer","tech":"none","time":5,"key":0}
+data{"date":"2017-05-29 09:26:21.993034","project":"CodeTimeTrackerServer","tech":"php","time":6,"key":9}
+data{"date":"2017-05-29 09:26:27.215014","project":"CodeTimeTrackerServer","tech":"txt","time":5,"key":2}
+data{"date":"2017-05-29 09:26:33.694271","project":"CodeTimeTrackerServer","tech":"py","time":6,"key":2}
+data{"date":"2017-05-29 09:26:36.014889","project":"CodeTimeTrackerServer","tech":"txt","time":3,"key":2}
+data{"date":"2017-05-29 09:26:42.993943","project":"CodeTimeTrackerServer","tech":"py","time":6,"key":5}
+data{"date":"2017-05-29 09:26:47.341767","project":"CodeTimeTrackerServer","tech":"txt","time":4,"key":2}

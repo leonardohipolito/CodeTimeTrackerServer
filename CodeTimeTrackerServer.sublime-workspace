@@ -1,0 +1,1222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align-se",
+				"align-self-end\t bootstrap.min.css"
+			],
+			[
+				"self",
+				"align-self-center\t bootstrap.min.css"
+			],
+			[
+				"lorem",
+				"lorem\tlorem - Short paragraph"
+			],
+			[
+				"bg",
+				"bg-faded \tBootstrap 4 Class"
+			],
+			[
+				"tranlsate",
+				"translateX()"
+			],
+			[
+				"align-item",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"justi",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"bs",
+				"bs3-cdn\tbs3-cdn"
+			],
+			[
+				"options",
+				"$options_filter〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"html",
+				"htmlentities〔function〕"
+			],
+			[
+				"for",
+				"foreach\t<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"option",
+				"option_name"
+			],
+			[
+				"ask",
+				"ask('Qual"
+			],
+			[
+				"intall",
+				"installRepository()\tmixed"
+			],
+			[
+				"abs",
+				"abstract〔keyword〕"
+			],
+			[
+				"pe-7s-user",
+				"pe-7s-users\t pe-icon-7-stroke.css"
+			],
+			[
+				"bs3-panel",
+				"bs3-panel:heading\tbs3-panel-heading"
+			],
+			[
+				"button",
+				"button:a\ta"
+			],
+			[
+				"Auth",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"Vue",
+				"VueResource"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"bgr",
+				"bgr:n\tbackground-repeat:no-repeat"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"conso",
+				"console.log();"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"getCate",
+				"getCategory"
+			],
+			[
+				"jus",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"fv",
+				"fv:sc\tfont-variant:small-caps"
+			],
+			[
+				"trans",
+				"transition: 〔property〕"
+			],
+			[
+				"offset",
+				"offset-2 \tBootstrap 4 Class"
+			],
+			[
+				"hei",
+				"height: 〔property〕"
+			],
+			[
+				"max",
+				"max-width: 〔property〕"
+			],
+			[
+				"img",
+				"img-placeholder\timg-placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 28,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/leonardo/AppData/Roaming/Sublime Text 3/Packages/User/Trello.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 203,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"trello",
+				"Trello: Navigate"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"download",
+				"Project Planner Trello Sync: Download timings and cards"
+			],
+			[
+				"planner",
+				"Project Planner Trello Sync: Upload card order"
+			],
+			[
+				"dow",
+				"Project Planner Trello Sync: Download timings and cards"
+			],
+			[
+				"down",
+				"Project Planner Trello Sync: Download timings and cards"
+			],
+			[
+				"project pla",
+				"Project Planner Trello Sync: Upload card order"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"taks",
+				"Tasks: New"
+			],
+			[
+				"projet pla",
+				"Project Planner Trello Sync: Upload card order"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"navbar",
+				"Snippet: navbar"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"fomra",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Inline Tooltips"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scan",
+				"PHPIntel: Scan Project"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Inline Tooltips"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ADD",
+				"Project: Add Folder"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"REMOVE ",
+				"Package Control: Remove Package"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"COLOT",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"THEM",
+				"Themr: List themes"
+			],
+			[
+				"colot",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"git status",
+				"Set Syntax: SublimeGit Status"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable a",
+				"Package Control: Disable Package"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"import",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"php intel",
+				"PHPIntel: Scan Project"
+			],
+			[
+				"namespace",
+				"PHPCompanion:Import Namespace"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"PACKAGE CONTROL",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"LIST PACKA",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			]
+		],
+		"width": 838.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/leonardo/Projetos/CodeTimerTrackerServer"
+	],
+	"file_history":
+	[
+		"/C/Users/leonardo/Projetos/help/Help.sublime-workspace",
+		"/C/Users/leonardo/Projetos/CodeTimerTrackerServer/tasks.projectplan.md",
+		"/C/Users/leonardo/AppData/Roaming/Sublime Text 3/Packages/User/ProjectPlanner.sublime-settings",
+		"/C/Users/leonardo/AppData/Roaming/Sublime Text 3/Packages/ProjectPlanner/ProjectPlanner.sublime-settings",
+		"/C/Users/leonardo/Projetos/CodeTimerTrackerServer/tasks.projectplan.md ",
+		"/C/Users/leonardo/Projetos/CodeTimerTrackerServer/idnex.php",
+		"/C/Users/leonardo/Projetos/help/index.html",
+		"/C/Users/leonardo/Projetos/help/assets/css/custom.css",
+		"/C/Users/leonardo/AppData/Roaming/Sublime Text 3/Packages/User/CodeTimeTracker/data.txt",
+		"/C/Users/leonardo/AppData/Roaming/Sublime Text 3/Packages/CodeTimeTracker/component/js/graphics.js",
+		"/C/Users/leonardo/Projetos/FTPSync/backup.php",
+		"/C/Users/leonardo/Projetos/help/custom.css",
+		"/E/backup hd/NetBeansProjects/FTPSync/backup.php",
+		"/C/Users/leonardo/Projetos/help/bootstrap.min.css",
+		"/C/Users/leonardo/Projetos/biketech/catalog/view/theme/default/template/module/category.tpl",
+		"/C/Users/leonardo/Projetos/biketech/catalog/view/theme/default/template/product/category.tpl",
+		"/C/Users/leonardo/Projetos/biketech/catalog/controller/product/category.php",
+		"/C/Users/leonardo/Projetos/biketech/system/library/pagination.php",
+		"/C/Users/leonardo/Projetos/biketech/sftp-config.json",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Colaborator/FileController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/layouts/default.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/layouts/default.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/file/index.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Colaborator/BusinessController.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Admin/BusinessController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/business/form.blade.php",
+		"/C/Users/leonardo/Projetos/caas/database/migrations/2017_05_12_114219_add_fields_to_businesses_table.php",
+		"/C/Users/leonardo/Projetos/caas/database/database.sqlite",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/business/edit.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/business/create.blade.php",
+		"/C/Users/leonardo/Projetos/caas/config/filesystems.php",
+		"/C/Users/leonardo/Projetos/caas/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php",
+		"/C/Users/leonardo/Projetos/caas/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php",
+		"/C/Users/leonardo/Projetos/caas/app/Entities/Business.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Admin/FileController.php",
+		"/C/Users/leonardo/Projetos/console/Modules/CodeQuality/QualityAnalyzer/.gitmodules",
+		"/C/Users/leonardo/Projetos/console/Modules/CodeQuality/QualityAnalyzer/.gitignore",
+		"/Csftp-config.json",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/calendar/index.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/calendar/show.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Entities/Event.php",
+		"/C/Users/leonardo/Projetos/caas/database/migrations/2017_05_11_171718_add_time_to_events_table.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Colaborator/CalendarController.php",
+		"/C/Users/leonardo/Projetos/caas/public/admin/assets/js/light-bootstrap-dashboard.js",
+		"/C/Users/leonardo/Projetos/caas/database/migrations/2017_05_09_181649_create_events_table.php",
+		"/C/Users/leonardo/Projetos/console/gen",
+		"/C/Users/leonardo/Projetos/console/Modules/CodeQuality/CodeQualityCommand.php",
+		"/C/Users/leonardo/Projetos/console/Modules/CodeQuality/QualityAnalyzer/assets/.gitkeep",
+		"/C/Users/leonardo/Projetos/console/Modules/CodeQuality/QualityAnalyzer/assets/bundle.js",
+		"/C/Users/leonardo/Projetos/console/Modules/DocProject/DocProjectCommand.php",
+		"/C/Users/leonardo/Projetos/console/docs/Money/MoneyCommand.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Linux/LinuxCommand.php",
+		"/C/Users/leonardo/Projetos/console/tasks.todo",
+		"/C/Users/leonardo/Projetos/console/Modules/Core/Helpers/LaravelConfig.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Core/Helpers/LaravelProvider.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/ProjectGeneratorAbstract.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Core/Helpers/Replacer.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Core/Helpers/Provider.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/Entity/ProjectGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/LaravelCommand.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/Entity/ControllerGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/Generator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/ControllerGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/ValidatorGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/RepositoryGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/EntityGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/ApiGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/ProjectGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/L5Repository/ChartsGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/RequestGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/CreateAndEditGenerator.php",
+		"/C/Users/leonardo/Projetos/console/Modules/Laravel/Generator/RepositoryGenerator.php",
+		"/C/Users/leonardo/Projetos/caas/tasks.todo",
+		"/C/Users/leonardo/Projetos/caas/vendor/prettus/l5-repository/src/Prettus/Repository/Contracts/RepositoryInterface.php",
+		"/C/Users/leonardo/Projetos/caas/public/admin/assets/css/pe-icon-7-stroke.css",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/layouts/parts/side-menu.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/business/show.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/file/table-list.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Colaborator/PermissionController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/permission/form.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Entities/Permission.php",
+		"/C/Users/leonardo/Projetos/caas/app/Entities/Sector.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/permission/table-list.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Colaborator/SectorController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/sector/form.blade.php",
+		"/C/Users/leonardo/Projetos/caas/sftp-config.json",
+		"/C/Users/leonardo/Projetos/caas/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php",
+		"/C/Users/leonardo/Projetos/caas/app/Repositories/EventRepositoryEloquent.php",
+		"/C/Users/leonardo/Projetos/caas/app/Repositories/EventRepository.php",
+		"/C/Users/leonardo/Projetos/caas/header.php",
+		"/C/Users/leonardo/Projetos/caas/app/Providers/RepositoryServiceProvider.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/permission/edit.blade.php",
+		"/C/Users/leonardo/AppData/Local/Temp/fz3temp-2/homepage.php",
+		"/C/Users/leonardo/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Admin/PermissionController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/business/index.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/user/show.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Colaborator/UserController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/permission/table-list.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Admin/SectorController.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/permission/form.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/business/show.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/user/infos.blade.php",
+		"/C/Users/leonardo/Projetos/caas/resources/views/admin/sector/form.blade.php",
+		"/C/Users/leonardo/Projetos/console/Resources/templates/laravel/form.php.twig",
+		"/C/Users/leonardo/Projetos/caas/resources/views/colaborator/business/form.blade.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Requests/BusinessCreateRequest.php",
+		"/C/Users/leonardo/Projetos/caas/routes/web.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Controllers/Admin/UserController.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Requests/UserUpdateRequest.php",
+		"/C/Users/leonardo/Projetos/caas/app/Http/Requests/UserCreateRequest.php",
+		"/C/Users/leonardo/Projetos/caas/.env.example",
+		"/C/Users/leonardo/Projetos/caas/.env",
+		"/C/Users/leonardo/Projetos/desktop-app/src/main.js",
+		"/C/Users/leonardo/Projetos/desktop-app/config/index.js",
+		"/C/Users/leonardo/Projetos/desktop-app/src/components/Index.vue",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/client/src/components/home.vue",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/client/src/App.vue",
+		"/C/Users/leonardo/AppData/Local/Temp/Rar$DIa0.512/index.php",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/client/src/vuex/category.js",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/app/Http/Controllers/Api/CategoryController.php",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/client/src/vuex/store.js",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/app/Http/Controllers/Admin/CategoryController.php",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/app/Entities/Category.php",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/.env",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/sftp-config.json",
+		"/C/Users/leonardo/Projetos/cadastro-de-medicos-unipesca/.env",
+		"/C/Users/leonardo/Projetos/carteirinha-de-ciclista/client/src/router/index.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TRELLO_TOKEN",
+			"TRELLO_API_SECRET",
+			"default_daily_category_workload",
+			"TRELLO_TEST_BOARD_ID",
+			"TRELLO_API_SECRET",
+			"TRELLO_API_KEY",
+			"height",
+			"eee",
+			"$options_filter",
+			"option_filter",
+			"product_total",
+			"page",
+			"value",
+			"key.'",
+			"false",
+			"fielters",
+			"producs",
+			"Pesquisar",
+			"option_name",
+			"$option['name']",
+			"results",
+			"'uploads",
+			"/uploads",
+			"'/uploads/logo/'.$data['name'] . '.' . $file->extension()",
+			"logo",
+			">drive('public')->",
+			"text",
+			"'public",
+			"SIDEBAR",
+			"logo",
+			"options",
+			"val['name']",
+			"endif",
+			"options_filter",
+			"$option['option_id']",
+			"<?php ",
+			"li",
+			"condition",
+			"false",
+			"password",
+			"username",
+			"bikeonli",
+			"Assunto",
+			"name",
+			"text",
+			"dir",
+			"docs_to_generate",
+			"hello",
+			"DocProjectCommand",
+			"replacer",
+			"Replacer",
+			"replacer",
+			"argument",
+			"out",
+			"repository",
+			"route",
+			"controller",
+			"first",
+			"Setores",
+			"Panel",
+			"graph",
+			"form-group",
+			"month",
+			"foo",
+			" =",
+			"description",
+			"date",
+			"User",
+			";",
+			"sector",
+			"count",
+			"user",
+			"isset",
+			"Title",
+			"Home",
+			"Contato",
+			"Somos",
+			"Quem",
+			"Somos",
+			"top",
+			"contain",
+			"cover",
+			"INFORMAÇÕES",
+			"><a",
+			"left",
+			"./asse",
+			"Qualidade",
+			"categories",
+			"product",
+			"nextProduct",
+			"productList",
+			"product",
+			"password",
+			"DB",
+			"homestead",
+			"uppercase",
+			"Active",
+			"enter\">",
+			"\"widget\"",
+			"title",
+			"FACEBOOK",
+			"content",
+			">\n",
+			"<i class=\"fa fa-home fa-5x\"></i>",
+			"h1",
+			"items",
+			"CreateCard",
+			"composer",
+			"output",
+			"zip",
+			"sqlite",
+			"mbstring",
+			"title",
+			"titulo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 16,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsl",
+									"webcolors",
+									"hex_compressed",
+									"rgba",
+									"hsla",
+									"hex",
+									"rgb"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1495042473.52,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/leonardo/AppData/Roaming/Sublime Text 3/Packages/User/Trello.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										202,
+										203
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 16,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".sublime-settings",
+								"current_syntax": "zzz A File Icon zzz/aliases/JSON (Sublime)",
+								"enabled": false,
+								"last_updated": 1495037543.25
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "CodeTimeTrackerServer.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pagina",
+				"system\\library\\pagination.php"
+			],
+			[
+				"paginat",
+				"system\\library\\pagination.php"
+			],
+			[
+				"busine",
+				"app\\Entities\\Business.php"
+			],
+			[
+				"tasks",
+				"tasks.todo"
+			],
+			[
+				"cale/index",
+				"resources\\views\\colaborator\\calendar\\index.blade.php"
+			],
+			[
+				"icons",
+				"public\\admin\\assets\\css\\pe-icon-7-stroke.css"
+			],
+			[
+				"event",
+				"app\\Entities\\Event.php"
+			],
+			[
+				"permi",
+				"app\\Entities\\Permission.php"
+			],
+			[
+				"sector",
+				"app\\Entities\\Sector.php"
+			],
+			[
+				"per",
+				"app\\Entities\\Permission.php"
+			],
+			[
+				"busines",
+				"app\\Entities\\Business.php"
+			],
+			[
+				"api/categ",
+				"app\\Http\\Controllers\\Api\\CategoryController.php"
+			],
+			[
+				"categorycontr",
+				"app\\Http\\Controllers\\Admin\\CategoryController.php"
+			],
+			[
+				"category",
+				"app\\Entities\\Category.php"
+			],
+			[
+				"category.js",
+				"client\\src\\vuex\\category.js"
+			],
+			[
+				"package.json",
+				"Resources\\assets\\node_modules\\sortablejs\\package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
